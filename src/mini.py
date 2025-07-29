@@ -1,3 +1,6 @@
+# 배경과 객체 분리해서 배경만 흑백처리
+# 사용된 개념 - opencv 색상변환, 스레시홀딩, 오츠 알고리즘, 이미지 연산
+
 import cv2
 import numpy as np
 
